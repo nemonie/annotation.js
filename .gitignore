@@ -1,0 +1,16 @@
+# npm files
+**/node_modules
+**/bower_components
+
+# temp files
+temp
+*.diff
+*.log
+*.bak
+
+# os files
+.idea
+.DS_STORE
+.Trashes
+.project
+Thumbs.db

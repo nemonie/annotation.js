@@ -1,0 +1,20 @@
+{
+  "name": "annotation.js",
+  "version": "0.0.1",
+  "description": "parse comment in javascript code",
+  "keywords": [
+    "annotation",
+    "comment",
+    "parse"
+  ],
+  "devDependencies": {
+    "eslint": "*",
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "license": "MIT",
+  "repository": "nemonie/annotation.js"
+}
